@@ -2,7 +2,7 @@ import './App.css';
 
 import MonthlySalesChart from './components/MonthlySalesChart';
 import ProductCategoryChart from './components/ProductCategoryChart';
-import CustomerAcquisitionChart from './components/customerAcquisitionChart';
+import CustomerAcquisitionChart from './components/CustomerAcquisitionChart';
 import WeeklyVisitorsChart from './components/WeeklyVisitorsChart';
 
 export default function App() {

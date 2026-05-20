@@ -65,3 +65,6 @@ npm run preview
 
 - Charts are responsive and designed to display inside a flexible grid layout.
 - The dashboard is a good starting point for practising data visualisation and dashboard UI design.
+=======
+# WEB101_02240338
+>>>>>>> ea89b127985daabf26a7380efdec34703dc94d04
